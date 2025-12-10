@@ -1,13 +1,14 @@
 # 👋 Olá, eu sou Pedro César!
 
 🌱 Atualmente estou aprendendo um pouco mais sobre **AWS, Inteligência Artificial, Python e Java além de Spring Boot**.  
-💻 Atualmente estagiando na Compass. Tentando aprender cada dia um pouco mais
+💻 Atualmente participando de projetos individuais e na faculdade. Tentando aprender cada dia um pouco mais.
 
 
 ## 🚀 Habilidades
 
-- **Linguagens:** Python, Java, JavaScript  
-- **Ferramentas:** AWS, Docker, Git, Node.js, Html, CSS, SQL
+- **Linguagens:** Python, Java, Dart, JavaScript
+- **Ferramentas:** AWS, Docker, Git, Node.js, HTML, CSS, SQL, Flutter
+- **Ferramentas:**PostgreSQL, MySQL
 - **Metodologias:** Scrum, Kanban  
 
 ---
