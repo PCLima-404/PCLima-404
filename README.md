@@ -8,7 +8,7 @@
 
 - **Linguagens:** Python, Java, Dart, FastApi
 - **Ferramentas:** AWS, Docker, Git, Node.js, HTML, CSS, SQL, Flutter
-- **Ferramentas:**PostgreSQL, MySQL
+- **Bancos de dados** PostgreSQL, MySQL
 - **Metodologias:** Scrum, Kanban  
 
 ---
