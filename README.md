@@ -6,7 +6,7 @@
 
 ## 🚀 Habilidades
 
-- **Linguagens:** Python, Java, Dart, JavaScript
+- **Linguagens:** Python, Java, Dart, FastApi
 - **Ferramentas:** AWS, Docker, Git, Node.js, HTML, CSS, SQL, Flutter
 - **Ferramentas:**PostgreSQL, MySQL
 - **Metodologias:** Scrum, Kanban  
