@@ -10,14 +10,14 @@
 
 ---
 
-### 🎯 Sobre mim
+### Sobre mim
 
 Sou Técnico em Informática e estudante de **Sistemas de Informação** no IFBA (Vitória da Conquista). Tenho interesse em Desenvolvimento de Software, Backend, Cloud e Inteligência Artificial, e atualmente estou aprofundando meus conhecimentos em **AWS, IA, Python, Java, Flutter e Spring Boot**, enquanto desenvolvo projetos acadêmicos e pessoais.
 
 -  Atualmente desenvolvendo projetos full stack com **Flutter + FastAPI**, **Node.js + Prisma**, Spring Boot e Kotlin
 -  Aprofundando conhecimentos em **AWS**, arquitetura em nuvem e boas práticas de backend
 - 🏀 Fora do código, sou apaixonado por esportes
-- 💬 Fale comigo sobre desenvolvimento backend, bancos de dados ou projetos acadêmicos, estou a disposição para uma conversa e um networking
+- Fale comigo sobre desenvolvimento backend, bancos de dados ou projetos acadêmicos, estou a disposição para uma conversa e um networking
 
 ---
 
@@ -61,7 +61,7 @@ Sou Técnico em Informática e estudante de **Sistemas de Informação** no IFBA
 
 ---
 
-### 📫 Como entrar em contato
+### Como entrar em contato
 
 <div align="center">
 
